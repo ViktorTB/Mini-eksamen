@@ -3,6 +3,10 @@ CREATE TABLE [info] (id integer NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,info t
 
 0: elevens navn
 1: Path til opgaveSæts filen
+2: current head
+3: current shoes
+4: current shirt
+5: antal coins
 
 Hvert felt har følgende opbygning
 id(int), 
